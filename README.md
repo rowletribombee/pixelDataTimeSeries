@@ -1,0 +1,1 @@
+This was created as Python practice during the summer of 2024. The intended purpose of the code is to read data from a csv and display it using matplotlib. However, the code is untested, and the actual bulk of the work during that summer is currently private.
